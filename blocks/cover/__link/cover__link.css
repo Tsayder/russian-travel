@@ -1,0 +1,16 @@
+.cover__link {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(42, 44, 47, .3);
+  transition: all .5s;
+  font-family: 'Inter', 'Arial', 'Helvetica';
+  color: white;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  aspect-ratio: 16/10;
+}
+
+.cover__link:hover {
+  background-color: rgba(42, 44, 47, .8);
+}

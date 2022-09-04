@@ -1,0 +1,21 @@
+.places__image {
+  width: 100%;
+  object-fit: contain;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+@media screen and (max-width: 767px) {
+  .place {
+    grid-row-start: 3;
+    grid-row-end: 4;
+
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places__image {
+    grid-row-start: 3;
+    grid-row-end: 4;
+  }
+}

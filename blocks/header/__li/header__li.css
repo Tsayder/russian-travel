@@ -1,0 +1,9 @@
+.header__li {
+  display: flex;
+  align-items: center;
+  margin-left: 18px;
+}
+
+.header__li:first-child {
+  margin-left: 0;
+}
