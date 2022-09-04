@@ -4,5 +4,5 @@
 
 Проект составлен при помощи Html5 и CSS в файловой структуре по методологии БЭМ. Структура страниц была создана на основе flexbox y grid-layout технологий. Также применена адаптация. Ссылки при наведении интерактивны.
 
-https://github.com/Tsayder/russian-travel
+https://tsayder.github.io/russian-travel/
 

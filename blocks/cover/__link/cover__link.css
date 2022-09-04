@@ -3,7 +3,7 @@
   flex-direction: column;
   background-color: rgba(42, 44, 47, .3);
   transition: all .5s;
-  font-family: 'Inter', 'Arial', 'Helvetica';
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   color: white;
   text-decoration: none;
   justify-content: center;

@@ -3,7 +3,7 @@
   margin: 0 0 32px;
   padding: 0;
   color: white;
-  font-family: 'Inter', 'Arial', 'Helvetica';
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   font-size: 96px;
   font-weight: 900;
   line-height: 100px;
@@ -27,7 +27,6 @@
 
 @media screen and (max-width: 600px) {
   .lead__title {
-    margin-bottom: 25px;
     font-size: 70px;
     line-height: 72px;
   }

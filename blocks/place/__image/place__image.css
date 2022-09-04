@@ -1,4 +1,4 @@
-.places__image {
+.place__image {
   width: 100%;
   object-fit: contain;
   grid-row-start: 2;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .place {
+  .place__image {
     grid-row-start: 3;
     grid-row-end: 4;
 
@@ -14,7 +14,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .places__image {
+  .place__image {
     grid-row-start: 3;
     grid-row-end: 4;
   }
